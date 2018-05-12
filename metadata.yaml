@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23858#The-American-CredoA-Contribution-Toward-the-Interpretation-of-the-National-Mind
 gutenberg_issued: '2007-12-14'
 gutenberg_type: Text
 identifiers:
