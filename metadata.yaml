@@ -1,0 +1,40 @@
+_repo: The-American-CredoA-Contribution-Toward-the-Interpretation-of-the-National-Mind_23858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Nathan, George Jean
+    birthdate: 1882
+    deathdate: 1958
+    gutenberg_agent_id: '9219'
+    url: http://www.gutenberg.org/2009/agents/9219
+    wikipedia: http://en.wikipedia.org/wiki/George_Jean_Nathan
+  - agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry L.
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2007-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'E151'
+- !lcsh 'National characteristics, American'
+title: 'The American Credo
+
+  A Contribution Toward the Interpretation of the National Mind'
+url: http://www.gutenberg.org/ebooks/23858
